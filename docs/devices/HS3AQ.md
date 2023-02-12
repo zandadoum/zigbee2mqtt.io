@@ -24,6 +24,22 @@ pageClass: device-page
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
 
+i found a mistake in this device name and description
+
+the HEIMAN HS3AQ does actually not have zigbee at all nor any other communication. it's just the basic version.
+
+the versions with zigbee are HS3AQ-TY(ZTU) or HS3AQ-EFA
+
+i made the mistake purchasing the HS3AQ and now i'll have to return it because it's not the correct model.
+
+on the manufacturer general product page it just lists the basic model name and sais it has zigbee, which is why i believe z2m info is incorrect as it must have got the info there
+
+furthermore, the manufacturer has 3 different manuals:
+
+HS3AQ, no zigbee: https://www.heimantech.com/manual/?type=detail&id=51
+HS3AQ-TY(ZTU) zigbee: https://www.heimantech.com/manual/?type=detail&id=50
+HS3AQ-EFA zigbee: https://www.heimantech.com/manual/?type=detail&id=49
+
 
 <!-- Notes END: Do not edit below this line -->
 
